@@ -1,0 +1,16 @@
+.begin {
+  background-color: #263057;
+  padding: 43px 0;
+  img {
+    width: 100%;
+  }
+  .swiper-pagination {
+    bottom: 55px !important;
+  }
+
+  .swiper-pagination-bullet-active {
+    width: 30px!important;
+    border-radius: 15px  !important;
+  }
+}
+

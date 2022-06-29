@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: 'Circe', sans-serif;
+  font-style: normal;
 }
 
 .container {
@@ -12,4 +16,8 @@
 }
 
 @import "Layout/Header/header";
+
+@import "./src/pages/Main/Begin/begin";
+@import "./src/pages/Main/Tarif/tarif";
+
 @import "Layout/Footer/footer";

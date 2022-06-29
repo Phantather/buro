@@ -1,10 +1,13 @@
 import React from 'react';
+import Begin from "./Begin/Begin";
+import Tarif from "./Tarif/Tarif";
 
 const Main = () => {
     return (
-        <>
-            main
-        </>
+        <main>
+            <Begin/>
+            <Tarif/>
+        </main>
     );
 };
 

@@ -2,24 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d4b4a0-8d59-448f-a3b2-b58725e5aa0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Layout/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Layout/Footer/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Layout/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Layout/Header/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Contact/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/begin/begin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-ExtraBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-ExtraLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-ExtraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Circe-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/header/log.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Main/Begin/Begin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Main/Begin/Slide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Main/Begin/begin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/Tarif.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/tarif.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Layout/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Layout/Header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Header/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +65,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/begin" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\buro\src\assets\begin" />
+      <recent name="C:\Users\user\Desktop\buro\src\assets\fonts" />
+      <recent name="C:\Users\user\Desktop\buro\src\assets\header" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,6 +90,7 @@
       <workItem from="1655546798368" duration="2208000" />
       <workItem from="1655562317598" duration="1105000" />
       <workItem from="1655700241464" duration="139000" />
+      <workItem from="1656491103800" duration="8143000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,60 @@
+.header {
+  padding: 25px 0;
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__list {
+    display: flex;
+    align-items: center;
+    column-gap: 25px;
+  }
+  &__link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #263057;
+  }
+  &__item-tel {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+  }
+  &__tel-link {
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 25px;
+    color: #263057;
+  }
+  &__tel-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.28em;
+    color: #263057;
+  }
+  &__btns {
+    display: flex;
+    align-items: center;
+    column-gap: 26px;
+  }
+  &__btn {
+    height: 34px;
+    padding: 6px 25px;
+    cursor: pointer;
+    background-color: #263057;
+    border: none;
+    border-radius: 30px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    transition: .3s;
+    &:hover {
+      transition: .3s;
+      background-color: #6984F0;
+    }
+  }
+}
