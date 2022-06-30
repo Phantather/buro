@@ -8,6 +8,7 @@
   font-style: normal;
 }
 
+
 .container {
   width: 100%;
   max-width: 1200px;
@@ -15,9 +16,39 @@
   padding: 0 20px;
 }
 
-@import "Layout/Header/header";
+.title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 130%;
+  text-transform: uppercase;
+  text-align: center;
+  color: #263057;
+}
 
+.btn {
+  width: 264px;
+  padding: 11px;
+  background-color: #6984F0;
+  border: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  color: #FFFFFF;
+  border-radius: 60px;
+  display: block;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+//layout
+@import "Layout/Header/header";
+@import "Layout/Footer/footer";
+
+//main
 @import "./src/pages/Main/Begin/begin";
 @import "./src/pages/Main/Tarif/tarif";
+@import "./src/pages/Main/About/about";
+@import "./src/pages/Main/News/news";
+@import "./src/pages/Main/Documents/documents";
+@import "./src/pages/Main/Partners/partners";
 
-@import "Layout/Footer/footer";

@@ -1,0 +1,21 @@
+.about {
+  padding: 64px 0;
+  &__row {
+    display: flex;
+    align-items: center;
+    column-gap: 45px;
+    margin: 37px 0 58px;
+  }
+  &__block {
+    width: 50%;
+    &-img {
+      width: 100%;
+    }
+  }
+  &__text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #263057;
+  }
+}

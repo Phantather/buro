@@ -5,6 +5,7 @@
     padding: 51px 40px 23px;
     background-color: #fff;
     border-radius: 15px;
+    margin-top: 25px;
   }
   &__title {
     font-weight: 700;
@@ -16,7 +17,7 @@
     margin-bottom: 25px;
   }
   &__card {
-    background-color: #263057;
+    background: linear-gradient(180deg, #273158 0%, #0C244D 100%);
     border-radius: 15px;
     padding: 23px 20px 36px;
     &-title {
@@ -82,5 +83,71 @@
     }
 
   }
+  &__call{
+    margin-top: 47px;
+    padding: 29px 59px 29px 78px;
+    background: linear-gradient(92.37deg, #263057 29.38%, #1D1444 100.81%);
+    border-radius: 15px;
+    &-title {
+      font-weight: 700;
+      font-size: 38px;
+      line-height: 130%;
+      color: #FFFFFF;
+      margin-bottom: 14px;
+    }
+    &-block {
+      display: flex;
+      align-items: center;
+      column-gap: 22px;
 
+    }
+    &-input  {
+      width: 390px;
+      height: 46px;
+      background: #FFFFFF;
+      border-radius: 5px;
+      border: none;
+      outline: none;
+      padding-left: 25px;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 140%;
+      color: #263057;
+      &_street {
+        width: 519px;
+        height: 46px;
+      }
+      &_home{
+        width: 185px;
+        height: 46.23px;
+      }
+    }
+    &-btn {
+      padding: 11px 40px;
+      background: #6984F0;
+      border-radius: 60px;
+      border: none;
+      cursor: pointer;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 140%;
+      color: #FFFFFF;
+    }
+    &-block2 {
+      display: flex;
+      column-gap: 11px;
+      align-items: center;
+      margin-top: 18px;
+    }
+    &-check{
+      background-color: transparent;
+      border: 1px solid #FFFFFF;
+    }
+    &-text {
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 140%;
+      color: #FFFFFF;
+    }
+  }
 }
