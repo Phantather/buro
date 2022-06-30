@@ -17,12 +17,12 @@ const Header = () => {
 
                     <ul className="header__list">
                         <li className="header__item">
-                            <Link to={'/'} className="header__link">
+                            <Link to={'/forHome'} className="header__link">
                                 Тарифы для дома
                             </Link>
                         </li>
                         <li className="header__item">
-                            <Link to={'/'} className="header__link">
+                            <Link to={'/forBusiness'} className="header__link">
                                 Тарифы для бизнеса
                             </Link>
                         </li>

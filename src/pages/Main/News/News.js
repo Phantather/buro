@@ -1,8 +1,13 @@
 import React from 'react';
-import {Link} from "react-router-dom";
+import {Link, useNavigate} from "react-router-dom";
 import news from '../../../assets/news/news.png'
 
+
 const News = () => {
+
+    const navigate = useNavigate();
+
+
     return (
         <section className="news">
             <div className="container">
@@ -59,7 +64,7 @@ const News = () => {
                         </Link>
                     </div>
                 </div>
-                <button className="btn">
+                <button className="btn" type={'button'} onClick={() => navigate('/news')}>
                     Все новости
                 </button>
             </div>

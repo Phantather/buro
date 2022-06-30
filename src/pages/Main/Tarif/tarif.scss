@@ -16,6 +16,20 @@
     color: #263057;
     margin-bottom: 25px;
   }
+  &__links {
+    display: flex;
+    justify-content: center;
+    column-gap: 5px;
+    &-nav {
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 140%;
+      color: #6984F0;
+    }
+    .active {
+      color: #6984F050;
+    }
+  }
   &__card {
     background: linear-gradient(180deg, #273158 0%, #0C244D 100%);
     border-radius: 15px;

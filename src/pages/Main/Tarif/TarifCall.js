@@ -10,7 +10,7 @@ const TarifCall = () => {
                 <div className="tarif__call-block">
                     <input className="tarif__call-input" type="text" placeholder="+7 (___) ___-__-__ *"/>
                     <input className="tarif__call-input" type="text" placeholder="Как Вас зовут? *"/>
-                    <button className="tarif__call-btn" type="button">
+                    <button className="tarif__call-btn" type="submit">
                         Жду звонка
                     </button>
                 </div>

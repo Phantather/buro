@@ -1,9 +1,11 @@
-import React from 'react';
+import React, {useState} from 'react';
 import TarifTop from "./TarifTop";
 import TarifCall from "./TarifCall";
 import TarifAddress from "./TarifAddress";
 
 const Tarif = () => {
+
+
     return (
         <section className="tarif">
             <div className="container">

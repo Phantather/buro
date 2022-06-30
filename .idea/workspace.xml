@@ -2,28 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d4b4a0-8d59-448f-a3b2-b58725e5aa0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/about/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/news/news.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partners/partner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/partners/partners.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/About/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/About/about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/Documents/Documents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/Documents/documents.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/News/News.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/News/news.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/Partners/Partners.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/Partners/PartnersSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/Partners/partners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifAddress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifCall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ForBusiness/ForBusiness.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ForHome/ForHome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/News/News.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layout/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layout/Footer/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Footer/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Begin/begin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Begin/begin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Layout/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Main/News/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/News/News.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Main/News/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/News/news.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/Tarif.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/Tarif.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifCall.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifCall.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/tarif.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/tarif.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,20 +41,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/partners" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/News" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\buro\src\pages\Main\Partners" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\buro\src\pages\News" />
       <recent name="C:\Users\user\Desktop\buro\src\assets\partners" />
       <recent name="C:\Users\user\Desktop\buro\src\assets\news" />
       <recent name="C:\Users\user\Desktop\buro\src\assets\about" />
       <recent name="C:\Users\user\Desktop\buro\src\assets\begin" />
-      <recent name="C:\Users\user\Desktop\buro\src\assets\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\buro\src\pages\Main\Partners" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -85,7 +73,9 @@
       <workItem from="1655700241464" duration="139000" />
       <workItem from="1656491103800" duration="8143000" />
       <workItem from="1656504113926" duration="60000" />
-      <workItem from="1656575429994" duration="10604000" />
+      <workItem from="1656575429994" duration="11028000" />
+      <workItem from="1656590583493" duration="51000" />
+      <workItem from="1656595739352" duration="3024000" />
     </task>
     <servers />
   </component>
@@ -97,9 +87,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1655550718878" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1656504198637">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1656590638364">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1656504198637" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1656590638364" />
   </component>
 </project>
