@@ -1,0 +1,35 @@
+.document {
+  padding: 71px 0;
+  &__list {
+    display: flex;
+    flex-direction: column;
+    row-gap: 37px;
+  }
+  &__item {
+    display: flex;
+    column-gap: 20px;
+    padding-left: 20px;
+  }
+  &__item-title {
+    margin-top: 37px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 35px;
+    color: #263057;
+  }
+  &__text {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #263057;
+  }
+  &__price {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color: #00000050;
+  }
+}

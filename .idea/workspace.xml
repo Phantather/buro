@@ -2,17 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d4b4a0-8d59-448f-a3b2-b58725e5aa0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/ForBusiness/ForBusiness.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/ForHome/ForHome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/News/News.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase/firebaseFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Document/Document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Document/document.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/things.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layout/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/News/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/News/News.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/News/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/News/news.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ForBusiness/ForBusiness.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ForBusiness/ForBusiness.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Main/Documents/Documents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Documents/Documents.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/Tarif.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/Tarif.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifCall.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifCall.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/tarif.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/tarif.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifTop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifTop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +50,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/News" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\buro\src\pages\News" />
-      <recent name="C:\Users\user\Desktop\buro\src\assets\partners" />
-      <recent name="C:\Users\user\Desktop\buro\src\assets\news" />
-      <recent name="C:\Users\user\Desktop\buro\src\assets\about" />
-      <recent name="C:\Users\user\Desktop\buro\src\assets\begin" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\buro\src\pages\Main\Partners" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\buro\src" />
+      <recent name="C:\Users\user\Desktop\buro" />
+      <recent name="C:\Users\user\Desktop\buro\src\redux\reducers" />
+      <recent name="C:\Users\user\Desktop\buro\src\pages\News" />
+      <recent name="C:\Users\user\Desktop\buro\src\assets\partners" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -75,7 +84,14 @@
       <workItem from="1656504113926" duration="60000" />
       <workItem from="1656575429994" duration="11028000" />
       <workItem from="1656590583493" duration="51000" />
-      <workItem from="1656595739352" duration="3024000" />
+      <workItem from="1656595739352" duration="3780000" />
+      <workItem from="1656660464217" duration="1915000" />
+      <workItem from="1656668133660" duration="117000" />
+      <workItem from="1656920604113" duration="4896000" />
+      <workItem from="1656928240528" duration="5239000" />
+      <workItem from="1657018276713" duration="1087000" />
+      <workItem from="1657083213023" duration="598000" />
+      <workItem from="1657780891671" duration="6273000" />
     </task>
     <servers />
   </component>
@@ -87,9 +103,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1655550718878" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1656590638364">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1656929947349">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1656590638364" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1656929947349" />
   </component>
 </project>

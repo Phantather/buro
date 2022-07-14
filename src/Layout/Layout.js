@@ -7,6 +7,7 @@ import Contact from "../pages/Contact/Contact";
 import ForHome from "../pages/ForHome/ForHome";
 import ForBusiness from "../pages/ForBusiness/ForBusiness";
 import News from "../pages/News/News";
+import Document from "../pages/Document/Document";
 
 const Layout = () => {
     return (
@@ -18,6 +19,7 @@ const Layout = () => {
                 <Route path='/forHome' element={<ForHome/>}/>
                 <Route path='/forBusiness' element={<ForBusiness/>}/>
                 <Route path='/news' element={<News/>}/>
+                <Route path='/document' element={<Document/>}/>
             </Routes>
             <Footer/>
         </>

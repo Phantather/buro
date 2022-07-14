@@ -1,6 +1,10 @@
 import React from 'react';
+import { useNavigate} from "react-router-dom";
 
 const Documents = () => {
+
+    const navigate = useNavigate();
+
     return (
         <section className="documents">
             <div className="container">
@@ -35,7 +39,7 @@ const Documents = () => {
                         </p>
                     </div>
                 </div>
-                <button className="btn">
+                <button className="btn" type={'button'} onClick={() => navigate('/document')}>
                     Все документы
                 </button>
             </div>
