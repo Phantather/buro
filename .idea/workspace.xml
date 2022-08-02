@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d4b4a0-8d59-448f-a3b2-b58725e5aa0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/firebase-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/firebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/firebaseFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Document/Document.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Document/document.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/things.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ForBusiness/ForBusiness.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ForBusiness/ForBusiness.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Documents/Documents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Documents/Documents.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/Tarif.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/Tarif.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifTop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Tarif/TarifTop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,21 +22,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2AhFqWSaizVpdy1m3EkdBL8Bsg7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/buro&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\buro\src\pages\Main\Partners" />
@@ -66,6 +54,7 @@
       <recent name="C:\Users\user\Desktop\buro\src\assets\partners" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -91,21 +80,23 @@
       <workItem from="1656928240528" duration="5239000" />
       <workItem from="1657018276713" duration="1087000" />
       <workItem from="1657083213023" duration="598000" />
-      <workItem from="1657780891671" duration="6273000" />
+      <workItem from="1657780891671" duration="6387000" />
+      <workItem from="1657788635322" duration="496000" />
+      <workItem from="1657872675756" duration="51000" />
+      <workItem from="1657895594885" duration="602000" />
+      <workItem from="1657896353236" duration="314000" />
+      <workItem from="1657897545228" duration="992000" />
+      <workItem from="1657898603198" duration="381000" />
+      <workItem from="1657899361857" duration="34000" />
+      <workItem from="1657963451286" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1655550718878">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1655550718878" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1656929947349">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1656929947349" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
